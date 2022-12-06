@@ -1,0 +1,37 @@
+# region
+aws_region = ""
+
+# vpc
+name = ""
+cidr_block = ""
+
+secondary_cidr = true
+secondary_cidr_block = ""
+
+tertiary_cidr = true
+tertiary_cidr_block = ""
+
+# subnets
+subnet1_name = ""
+subnet1_cidr_block = ""
+
+subnet2_name = ""
+subnet2_cidr_block = ""
+
+subnet3_name = ""
+subnet3_cidr_block = ""
+
+subnet4_name = ""
+subnet4_cidr_block = ""
+
+subnet5_name = ""
+subnet5_cidr_block = ""
+
+subnet6_name = ""
+subnet6_cidr_block = ""
+
+# internet gateways
+igw_name = ""
+
+# route table
+route_table_name-main = ""
